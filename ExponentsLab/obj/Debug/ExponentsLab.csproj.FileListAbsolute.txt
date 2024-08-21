@@ -1,0 +1,7 @@
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\ExponentsLab\ExponentsLab\bin\Debug\ExponentsLab.exe.config
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\ExponentsLab\ExponentsLab\bin\Debug\ExponentsLab.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\ExponentsLab\ExponentsLab\bin\Debug\ExponentsLab.pdb
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\ExponentsLab\ExponentsLab\obj\Debug\ExponentsLab.csproj.AssemblyReference.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\ExponentsLab\ExponentsLab\obj\Debug\ExponentsLab.csproj.CoreCompileInputs.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\ExponentsLab\ExponentsLab\obj\Debug\ExponentsLab.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\ExponentsLab\ExponentsLab\obj\Debug\ExponentsLab.pdb
